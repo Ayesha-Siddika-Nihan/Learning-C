@@ -10,8 +10,13 @@
 
 
 <p align="center">A comprehensive documentation of learning computer science fundamentals through Harvard's CS50x!</p>
-
-# <div> 
+<div align= "center">
+  <img src="https://github.com/Ayesha-Siddika-Nihan/Learning-C---Journal-Time/blob/main/C%20program%20feature%20cover.jpeg?raw=true" 
+       alt="Geometric Dash - Scratch Preview" 
+       style="width: 500px; height: auto;">
+</div>
+<br>
+<div> 
 During my gap year in Bangladesh, I embarked on an educational journey that would fundamentally reshape my understanding of computer science. Armed with nothing more than a modest laptop and an unreliable internet connection, I discovered Harvard's CS50x course. This decision marked the beginning of an intensive exploration into the world of programming, algorithms, and computational thinking. 
 <br>
 <br>
