@@ -24,13 +24,21 @@ Week 0: Foundations in Computational Thinking
 The first week was all about computational thinking, and we used Scratch, MIT’s visual programming language, to get started. Professor David Malan’s teaching style was super helpful—instead of worrying about complicated syntax right away, we learned core programming concepts through block-based coding. It made things way less intimidating!
 
 Working with Scratch really helped connect abstract ideas (like loops, conditionals, variables, and functions) to actual implementation, since you could just drag and drop blocks to see how things worked. One of the projects I built was a simple but fun interactive jumping game—it was basic but taught me a lot about game mechanics and logic.
-<p>Learned logic, loops, conditionals using <strong>Scratch</strong>. Made a jumping game!</p>
-<p align="center">
+
+<h4 align="center">
 Here’s the link if you wanna check it out:
 <a align="center" href="https://scratch.mit.edu/projects/1155594303/" target="_blank" rel="noopener noreferrer">
   Play My Scratch Game
 </a>
-</p>
+ <br>
+ <br>
+ <div align= "center">
+  <img src="https://github.com/Ayesha-Siddika-Nihan/Learning-C---Journal-Time/blob/main/Geomatric%20Dash%20-%20Scratch.png?raw=true" 
+       alt="Geometric Dash - Scratch Preview" 
+       style="width: 600px; height: auto;">
+</div>
+
+</h4>
 
 <h2 align="center">
 Week 0: Foundations in Computational Thinking
@@ -62,9 +70,20 @@ Here’s the truth: I’m not saying I’m a C expert (yet). But honestly? Somet
     See attached scans below for a peek into my process.
   </a>
 </p>
+<h1 align="center"> Project Portfolio </h1>
+<h3 align="center"> >- 🧱 Mario Pyramid (CS50) -< </h3>
+<h5 align="center">
+Language: C | Concepts: Loops, Input Validation, ASCII Art ; Status: ✅ Completed
+</h5>
+<p>
+This project was one of my very first hands-on experiences with C programming, built as part of the CS50x curriculum. The goal? Recreate a terminal-based version of the iconic Super Mario Bros. pyramid using hash symbols (#).The program prompts the user to input a height between 1 and 8, then prints a right-aligned pyramid to the terminal based on that value.Honestly, it felt like solving a Rubik’s cube with code — simple on the outside but deeply logical underneath.
+ 
+</p>
 
+<h2 align="center"> Setting Things Up - The Setup Struggle Was Real </h2>
+Okay, real talk — the biggest headache wasn’t even C itself. It was setting everything up. I’m talking downloading MinGW, linking compilers, installing Git, configuring VS Code, syncing with GitHub — ugh. The errors were endless and honestly, ChatGPT became my therapist, debugger, and tech BFF.At one point, it genuinely felt like my computer was trolling me — broken PATH variables, missing compilers, terminal screaming errors... you name it.
 
-
+It was frustrating as hell, and half the time I had no idea what was even going wrong. But I didn’t give up. I Googled, I asked for help, I debugged, I cried a little (lol), and then — finally — I got it all working. And honestly? That moment when everything finally ran — when I typed gcc and there were no errors, when git push actually pushed — it felt like magic. I felt like a real coder for the first time. That whole struggle? It made everything I learned afterward feel 10x more meaningful.
 
 
 
