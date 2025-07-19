@@ -70,10 +70,12 @@ Here’s the truth: I’m not saying I’m a C expert (yet). But honestly? Somet
 >- Handwrriten Notes -< 
 </h2>
 <p>
-  Throughout Week 1, I documented every key concept in my own words—literally. I kept detailed handwritten notes for each topic, from variables and loops to pointers and memory management.
-  <a href="https://github.com/Ayesha-Siddika-Nihan/C-form-Scratch/raw/main/XEE100_IoT_Syllabus.pdf" target="_blank">
+  Throughout Week 1, I documented every key concept in my own words—literally. I kept detailed handwritten notes for each topic, from variables and loops to pointers and memory management. (Please note: although my handwriting and occasional slang may not be easily understandable to others, these notes were written for my own cognitive process and learning style. To make them more accessible, I’ve rewritten the handwritten content into typed form with the help of AI. I hope this version is helpful to you.)
+ <p align="center">
+  <a href="https://www.notion.so/C-Programing-Notes-23579c30e06681ae8d63e5b0a4522889?source=copy_link" target="_blank">
     See attached scans below for a peek into my process.
   </a>
+ </p>
 </p>
 <h1 align="center"> Project Portfolio </h1>
 <h3 align="center"> >- 🧱 Mario Pyramid (CS50) -< </h3>
