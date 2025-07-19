@@ -127,7 +127,7 @@ It was frustrating as hell, and half the time I had no idea what was even going 
 
 
   <footer>
-    <p>Made with ❤️ by Aish, during my gap year in Bangladesh.</p>
+    
   </footer>
 
 </body>
